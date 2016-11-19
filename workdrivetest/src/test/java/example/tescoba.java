@@ -23,7 +23,7 @@ public class tescoba {
 		System.out.println("Application title is =============" + driver.getTitle());
 		// Maximize the browser
 		driver.manage().window().maximize();
-		System.out.println("success!!!");
+		System.out.println("success test!!!"+url);
 		
 
 	}
