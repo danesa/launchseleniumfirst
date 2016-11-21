@@ -25,13 +25,6 @@ public class tescoba {
 		driver.manage().window().maximize();
 		System.out.println("success test okeeee!!!"+url);
 		System.out.println("success test okeeee!!!"+url);
-		System.out.println("success test okeeee!!!"+url);
-
-		
-		
-		
-		
-		
-		
+	
 	}
 }
